@@ -1,0 +1,59 @@
+.logo {
+  height: 55vh;
+  width: 55vw;
+}
+
+.navbuttons {
+  height: 30px;
+  width: 100px;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 10px;
+  border: 3px;
+}
+
+.angularbtn {
+  background-color: rgb(225, 27, 44);
+}
+
+.clickedreact {
+  background-color: rgb(70, 172, 227);
+}
+.description {
+  color: rgb(47, 47, 67);
+}
+
+.defaultbtn {
+  background-color: rgb(215, 221, 225);
+}
+
+.djangobtn {
+  background-color: rgb(50, 74, 50);
+}
+.bootstrapbtn {
+  background-color: blueviolet;
+}
+.nextjsbtn {
+  background-color: aquamarine;
+}
+.jquerybtn {
+  background-color: rgb(41, 86, 149);
+}
+.vuebtn {
+  background-color: rgb(53, 164, 99);
+}
+
+.mainbgc {
+  background-color: rgb(166, 218, 201);
+  padding: 20px;
+  margin: 0px;
+  border-radius: 10px;
+  background-size: contain;
+  border-width: 1px;
+  height: 100vh;
+}
+@media screen and (min-width: 768px) {
+  .mainbgc {
+    background-color: rgb(74, 74, 99);
+  }
+}
